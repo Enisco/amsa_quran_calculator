@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "AMSA Qur'an Calculator",
+      title: "AMSA Qur'an Calc",
       theme: ThemeData.dark(),
 
       // theme: ThemeData(
